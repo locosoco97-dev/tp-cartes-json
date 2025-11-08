@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "React Native",
+    "description": "Apprends à créer des apps mobiles cross-platform.",
+    "image": "https://reactnative.dev/img/tiny_logo.png",
+    "url": "https://reactnative.dev",
+    "category": "framework"
+  },
+  {
+    "id": "2",
+    "title": "Expo",
+    "description": "Démarre vite sans Android Studio ni Xcode.",
+    "image": "https://avatars.githubusercontent.com/u/12504344?s=200&v=4",
+    "url": "https://expo.dev",
+    "category": "tool"
+  },
+  {
+    "id": "3",
+    "title": "Flexbox",
+    "description": "Mets en page tes vues facilement.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Vector-based_example.svg",
+    "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "category": "layout"
+  },
+  {
+    "id": "4",
+    "title": "JavaScript",
+    "description": "Le langage de programmation essentiel pour le web.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+    "url": "https://developer.mozilla.org/fr/docs/Web/JavaScript",
+    "category": "language"
+  },
+  {
+    "id": "5",
+    "title": "React Navigation",
+    "description": "Navigation entre les écrans dans React Native.",
+    "image": "https://reactnavigation.org/img/spiro_nav.svg",
+    "url": "https://reactnavigation.org",
+    "category": "navigation"
+  }
+]
